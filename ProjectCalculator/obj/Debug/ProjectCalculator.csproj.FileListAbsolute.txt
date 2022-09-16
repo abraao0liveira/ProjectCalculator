@@ -1,0 +1,11 @@
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.AssemblyReference.cache
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Form1.resources
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.cache
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+C:\Users\abraa\OneDrive\Documentos\Projetos\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
